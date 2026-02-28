@@ -50,8 +50,4 @@ This project is built with:
 
 Simply run npm install and npm run dev
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
